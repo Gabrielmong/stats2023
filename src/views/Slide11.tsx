@@ -1,6 +1,6 @@
 import { Typography, Box } from '@mui/material';
 import { content } from '../assets/content';
-import gif from '../assets/dancing-toothless.gif';
+import gif from '/dancing-toothless.gif';
 
 export const Slide11 = () => {
   return (
